@@ -1,2 +1,2 @@
-# Estacionamento-Desafio-Dio
-Sistema de estacionamento utilizando TypeScript
+# gerenciador-estacionamento
+Programa gerenciador de estacionamento
